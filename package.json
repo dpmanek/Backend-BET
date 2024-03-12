@@ -2,7 +2,7 @@
 	"name": "project",
 	"version": "1.0.0",
 	"description": "Budget Expense Manager",
-	"proxy": "https://preeminent-marzipan-9e489f.netlify.app/",
+	"proxy": "https://preeminent-marzipan-9e489f.netlify.app",
 	"main": "app.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
