@@ -149,7 +149,7 @@ const checkTransactionDate = (date) => {
 				splitDate[2].length !== 4
 			)
 				throw 'Release date need to be in the format of MM/DD/YYY';
-			if (splitDate[2] < 1900 || splitDate[2] > 2023)
+			if (splitDate[2] < 1900 || splitDate[2] > 2024)
 				throw 'Only years 1900-2023 are valid values';
 			return date;
 		}
